@@ -1,0 +1,4 @@
+jdbc.default.driverClassName=com.mysql.jdbc.Driver
+jdbc.default.url=jdbc:mysql://13.233.88.232:3306/mouni?useUnicode=true&amp;characterEncoding=UTF-8&amp;useFastDateParsing=false
+jdbc.default.username=Boyapati
+jdbc.default.password=Rsyed!12345
